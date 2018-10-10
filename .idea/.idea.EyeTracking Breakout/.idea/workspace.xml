@@ -14,8 +14,9 @@
         <counts>
           <entry key="project.closed" value="3" />
           <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.6" value="1" />
           <entry key="project.open.time.7" value="2" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -42,11 +43,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/pupil_plugin/Scripts/PupilManager.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="85">
-              <caret line="9" column="67" lean-forward="true" selection-start-line="9" selection-start-column="67" selection-end-line="9" selection-end-column="67" />
+              <caret line="9" column="67" selection-start-line="9" selection-start-column="67" selection-end-line="9" selection-end-column="67" />
               <folding>
                 <marker date="1539000316870" expanded="false" signature="6:135" ph="..." />
                 <marker date="1539000316870" expanded="true" signature="180:4251" ph="{...}" />
@@ -76,7 +77,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/pupil_plugin/Scripts/Pupil/PupilGazeTracker.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
+            <state relative-caret-position="901">
               <caret line="104" column="38" selection-start-line="104" selection-start-column="38" selection-end-line="104" selection-end-column="38" />
               <folding>
                 <marker date="1519630976000" expanded="true" signature="0:89" ph="/* Pupil Gaze Tracker service ... */" />
@@ -120,7 +121,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/pupil_plugin/Scripts/Networking/PupilTools.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="277">
+            <state relative-caret-position="2346">
               <caret line="369" column="33" selection-start-line="369" selection-start-column="33" selection-end-line="369" selection-end-column="33" />
               <folding>
                 <marker date="1520420247000" expanded="false" signature="6:121" ph="..." />
@@ -226,10 +227,9 @@
         <entry file="file://$PROJECT_DIR$/Assets/pupil_plugin/Scripts/Pupil/Calibration.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="459">
-              <caret line="28" column="6" lean-forward="true" selection-start-line="28" selection-start-column="6" selection-end-line="28" selection-end-column="6" />
+              <caret line="28" column="6" selection-start-line="28" selection-start-column="6" selection-end-line="28" selection-end-column="6" />
               <folding>
                 <marker date="1520416395000" expanded="false" signature="6:32" ph="..." />
-                <marker date="1520416395000" expanded="true" signature="74:5122" ph="{...}" />
                 <marker date="1520416395000" expanded="true" signature="95:114" ph="{...}" />
                 <marker date="1520416395000" expanded="true" signature="151:413" ph="{...}" />
                 <marker date="1520416395000" expanded="true" signature="462:750" ph="{...}" />
@@ -266,11 +266,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/Test_Controller.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="255">
-              <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+              <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
               <folding>
                 <marker date="1539077181462" expanded="false" signature="6:78" ph="..." />
                 <marker date="1539077181462" expanded="true" signature="125:580" ph="{...}" />
@@ -292,6 +292,9 @@
     <dirStrings>
       <dir>D:\Documents\EyeTracking Breakout\Assets\pupil_plugin</dir>
     </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/pupil_plugin/Scripts/Pupil/Calibration.cs" root0="FORCE_HIGHLIGHTING" />
@@ -317,11 +320,12 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="950" />
     <option name="width" value="980" />
     <option name="height" value="1040" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="UnityExplorer" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -391,11 +395,12 @@
       <workItem from="1538999041601" duration="604000" />
       <workItem from="1538999848048" duration="2826000" />
       <workItem from="1539073581363" duration="3794000" />
+      <workItem from="1539159415650" duration="1189000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7224000" />
+    <option name="totallyTimeSpent" value="8413000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -408,8 +413,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25637585" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12818792" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -455,9 +461,38 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Assets/_Scripts/PupilManager.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/pupil_plugin/Scripts/PupilManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="9" column="67" selection-start-line="9" selection-start-column="67" selection-end-line="9" selection-end-column="67" />
+          <folding>
+            <marker date="1539000316870" expanded="false" signature="6:135" ph="..." />
+            <marker date="1539000316870" expanded="true" signature="180:4251" ph="{...}" />
+            <marker date="1539000316870" expanded="true" signature="350:788" ph="{...}" />
+            <marker date="1539000316870" expanded="true" signature="818:1051" ph="{...}" />
+            <marker date="1539000316870" expanded="true" signature="1075:1108" ph="{...}" />
+            <marker date="1539000316870" expanded="true" signature="1129:1369" ph="{...}" />
+            <marker date="1539000316870" expanded="true" signature="1412:2485" ph="{...}" />
+            <marker date="1539000316870" expanded="true" signature="1622:2482" ph="{...}" />
+            <marker date="1539000316870" expanded="true" signature="1913:2223" ph="{...}" />
+            <marker date="1539000316870" expanded="true" signature="2508:2574" ph="{...}" />
+            <marker date="1539000316870" expanded="true" signature="2603:2904" ph="{...}" />
+            <marker date="1539000316870" expanded="true" signature="2934:3016" ph="{...}" />
+            <marker date="1539000316870" expanded="true" signature="3045:3205" ph="{...}" />
+            <marker date="1539000316870" expanded="true" signature="3340:3564" ph="{...}" />
+            <marker date="1539000316870" expanded="true" signature="3491:3521" ph="{...}" />
+            <marker date="1539000316870" expanded="true" signature="3598:3783" ph="{...}" />
+            <marker date="1539000316870" expanded="true" signature="3725:3755" ph="{...}" />
+            <marker date="1539000316870" expanded="true" signature="3803:3883" ph="{...}" />
+            <marker date="1539000316870" expanded="true" signature="3899:3957" ph="{...}" />
+            <marker date="1539000316870" expanded="true" signature="3984:4249" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/pupil_plugin/Scripts/Pupil/PupilGazeTracker.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
+        <state relative-caret-position="901">
           <caret line="104" column="38" selection-start-line="104" selection-start-column="38" selection-end-line="104" selection-end-column="38" />
           <folding>
             <marker date="1519630976000" expanded="true" signature="0:89" ph="/* Pupil Gaze Tracker service ... */" />
@@ -499,7 +534,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/pupil_plugin/Scripts/Networking/PupilTools.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="277">
+        <state relative-caret-position="2346">
           <caret line="369" column="33" selection-start-line="369" selection-start-column="33" selection-end-line="369" selection-end-column="33" />
           <folding>
             <marker date="1520420247000" expanded="false" signature="6:121" ph="..." />
@@ -600,41 +635,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Test_Controller.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
-          <folding>
-            <marker date="1539077181462" expanded="false" signature="6:78" ph="..." />
-            <marker date="1539077181462" expanded="true" signature="125:580" ph="{...}" />
-            <marker date="1539077181462" expanded="true" signature="175:182" ph="{...}" />
-            <marker date="1539077181462" expanded="true" signature="237:244" ph="{...}" />
-            <marker date="1539077181462" expanded="true" signature="263:578" ph="{...}" />
-            <marker date="1539077181462" expanded="true" signature="296:575" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/GameController.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="18" column="5" selection-start-line="6" selection-start-column="4" selection-end-line="18" selection-end-column="5" />
-          <folding>
-            <marker date="1539002259417" expanded="false" signature="6:78" ph="..." />
-            <marker date="1539002259417" expanded="true" signature="124:460" ph="{...}" />
-            <marker date="1539002259417" expanded="true" signature="143:458" ph="{...}" />
-            <marker date="1539002259417" expanded="true" signature="176:455" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/pupil_plugin/Scripts/Pupil/Calibration.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="459">
-          <caret line="28" column="6" lean-forward="true" selection-start-line="28" selection-start-column="6" selection-end-line="28" selection-end-column="6" />
+          <caret line="28" column="6" selection-start-line="28" selection-start-column="6" selection-end-line="28" selection-end-column="6" />
           <folding>
             <marker date="1520416395000" expanded="false" signature="6:32" ph="..." />
-            <marker date="1520416395000" expanded="true" signature="74:5122" ph="{...}" />
             <marker date="1520416395000" expanded="true" signature="95:114" ph="{...}" />
             <marker date="1520416395000" expanded="true" signature="151:413" ph="{...}" />
             <marker date="1520416395000" expanded="true" signature="462:750" ph="{...}" />
@@ -655,31 +661,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/pupil_plugin/Scripts/PupilManager.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/GameController.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="9" column="67" lean-forward="true" selection-start-line="9" selection-start-column="67" selection-end-line="9" selection-end-column="67" />
+        <state relative-caret-position="272">
+          <caret line="18" column="5" selection-start-line="6" selection-start-column="4" selection-end-line="18" selection-end-column="5" />
           <folding>
-            <marker date="1539000316870" expanded="false" signature="6:135" ph="..." />
-            <marker date="1539000316870" expanded="true" signature="180:4251" ph="{...}" />
-            <marker date="1539000316870" expanded="true" signature="350:788" ph="{...}" />
-            <marker date="1539000316870" expanded="true" signature="818:1051" ph="{...}" />
-            <marker date="1539000316870" expanded="true" signature="1075:1108" ph="{...}" />
-            <marker date="1539000316870" expanded="true" signature="1129:1369" ph="{...}" />
-            <marker date="1539000316870" expanded="true" signature="1412:2485" ph="{...}" />
-            <marker date="1539000316870" expanded="true" signature="1622:2482" ph="{...}" />
-            <marker date="1539000316870" expanded="true" signature="1913:2223" ph="{...}" />
-            <marker date="1539000316870" expanded="true" signature="2508:2574" ph="{...}" />
-            <marker date="1539000316870" expanded="true" signature="2603:2904" ph="{...}" />
-            <marker date="1539000316870" expanded="true" signature="2934:3016" ph="{...}" />
-            <marker date="1539000316870" expanded="true" signature="3045:3205" ph="{...}" />
-            <marker date="1539000316870" expanded="true" signature="3340:3564" ph="{...}" />
-            <marker date="1539000316870" expanded="true" signature="3491:3521" ph="{...}" />
-            <marker date="1539000316870" expanded="true" signature="3598:3783" ph="{...}" />
-            <marker date="1539000316870" expanded="true" signature="3725:3755" ph="{...}" />
-            <marker date="1539000316870" expanded="true" signature="3803:3883" ph="{...}" />
-            <marker date="1539000316870" expanded="true" signature="3899:3957" ph="{...}" />
-            <marker date="1539000316870" expanded="true" signature="3984:4249" ph="{...}" />
+            <marker date="1539002259417" expanded="false" signature="6:78" ph="..." />
+            <marker date="1539002259417" expanded="true" signature="124:460" ph="{...}" />
+            <marker date="1539002259417" expanded="true" signature="143:458" ph="{...}" />
+            <marker date="1539002259417" expanded="true" signature="176:455" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Test_Controller.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+          <folding>
+            <marker date="1539077181462" expanded="false" signature="6:78" ph="..." />
+            <marker date="1539077181462" expanded="true" signature="125:580" ph="{...}" />
+            <marker date="1539077181462" expanded="true" signature="175:182" ph="{...}" />
+            <marker date="1539077181462" expanded="true" signature="237:244" ph="{...}" />
+            <marker date="1539077181462" expanded="true" signature="263:578" ph="{...}" />
+            <marker date="1539077181462" expanded="true" signature="296:575" ph="{...}" />
           </folding>
         </state>
       </provider>

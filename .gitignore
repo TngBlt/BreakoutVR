@@ -28,6 +28,10 @@ ExportedObj/
 *.pidb.meta
 *.pdb.meta
 
+# Rider Idea files
+*.idea/
+*.idea
+
 # Unity3D Generated File On Crash Reports
 sysinfo.txt
 
